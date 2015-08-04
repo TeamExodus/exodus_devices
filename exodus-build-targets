@@ -1,12 +1,7 @@
 #supported devices
 exodus_bacon-userdebug
 exodus_d2spr-userdebug
-exodus_d850-userdebug
-exodus_d851-userdebug
-exodus_d852-userdebug
-exodus_d855-userdebug
 exodus_deb-userdebug
-exodus_f400-userdebug
 exodus_falcon-userdebug
 exodus_find7-userdebug
 exodus_flo-userdebug
@@ -17,7 +12,6 @@ exodus_jfltespr-userdebug
 exodus_jfltevzw-userdebug
 exodus_klte-userdebug
 exodus_kltespr-userdebug
-exodus_ls990-userdebug
 exodus_m7-userdebug
 exodus_m8-userdebug
 exodus_mako-userdebug
