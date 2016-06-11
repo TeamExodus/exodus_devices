@@ -3,17 +3,6 @@
 # Device ; Codename ; Manufacturer ; carrier
 Moto Style (Pure);clark;Motorola;unlocked
 One;bacon;Oneplus;unlocked
-G2;d800;LGE;AT&T
-G2;d801;LGE;T-Mobile
-G2;d802;LGE;unlocked
-G2;d803;LGE;Canada
-G3;d850;LGE;AT&T
-G3;d851;LGE;T-Mobile
-G3;d852;LGE;Canada
-G3;d855;LGE;unlocked
-G3;f400;LGE;Korean
-G2;ls980;LGE;Sprint
-G3;ls990;LGE;Sprint
 Google Android One;sprout4;Google;unlocked
 HTC One m8;m8;HTC;unlocked
 Moto G;falcon;Motorola;unlocked
@@ -34,8 +23,6 @@ Samsung S4 mini 3g;serrano3gxx;Samsung;unlocked
 Samsung S4 mini lte;serranoltexx;Samsung;unlocked
 Samsung S4 duos;serranodsdd;Samsung;unlocked
 Find 7;find7;Oppo;unlocked
-G2;vs980;LGE;Verizon
-G3;vs985;LGE;Verizon
 Xiaomi Mi4 Mi3;cancro;Xiaomi;unlocked
 Yureka YU;tomato;Yureka;unlocked
 #end of supported devices

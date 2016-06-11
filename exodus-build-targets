@@ -1,25 +1,15 @@
 #supported devices
+angler
 armani
 bacon
 bullhead
 clark
-d800
-d801
-d802
-d803
-d850
-d851
-d852
-d855
-f400
 falcon
 find7
 flo
 flounder
 hammerhead
 klte
-ls980
-ls990
 oneplus2
 onyx
 m8
@@ -31,6 +21,4 @@ shamu
 sprout4
 titan
 tomato
-vs980
-vs985
 #end of supported devices
